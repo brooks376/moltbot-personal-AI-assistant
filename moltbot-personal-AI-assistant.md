@@ -5,7 +5,7 @@ Moltbot is your **personal AI assistant** that runs on your own devices, not in 
 
 ## Overview
 
-Moltbot runs on macOS, Linux, and Windows (via WSL2) and talks to you through familiar channels like WhatsApp, Telegram, Slack, Discord, Google Chat, Signal, iMessage (via BlueBubbles), Microsoft Teams, Matrix, Zalo, Zalo Personal, and WebChat. It feels like a fast, local, always‑on teammate you reach simply by sending a message.
+Moltbot runs on [macOS](https://www.apple.com/os/macos/), Linux, and Windows (via WSL2) and talks to you through familiar channels like [WhatsApp](https://www.whatsapp.com/) Telegram, Slack, Discord, Google Chat, Signal, iMessage (via BlueBubbles), Microsoft Teams, Matrix, Zalo, Zalo Personal, and WebChat. It feels like a fast, local, always‑on teammate you reach simply by sending a message.
 
 Instead of being locked into a hosted SaaS, Moltbot lives alongside your tools and data. It can read and write files, run shell commands, control your browser, and orchestrate applications, so it can actually take action on your behalf—not just reply with text. Over time it builds up long‑term memory of your preferences, projects, and routines, so it becomes uniquely tuned to you instead of behaving like a generic chatbot.
 
@@ -115,7 +115,7 @@ With channels connected, Moltbot can deliver the conversation back into WhatsApp
 
 For detailed configuration, channel‑specific setup, updating instructions, and advanced examples, see:
 
-- Website: `https://moltbot.you/`  
+- Website: https://moltbot.you/ 
 - Github：https://github.com/moltbot/moltbot
 
 ## Contributing
